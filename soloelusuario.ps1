@@ -90,3 +90,5 @@ if ($confirmation -eq "si") {
 } else {
     Write-Host "Operación cancelada. No se desconectaron usuarios."
 }
+
+
